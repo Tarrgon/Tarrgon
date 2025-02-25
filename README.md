@@ -5,5 +5,3 @@ If you want to contact me for some reason, you can email me @ `github(at)yiff.to
 I specialize in backend with Node.JS and C#, with plenty of experience in unity and godot, mainly with modding. Though I have experience in practically any non-defunct languages other than the other major C languages. I consider myself technically capable enough to pick up any major language if necessary, since I already have all the logic down, it's just syntax primarily.
 
 I know my way around HTML and CSS as well for front end purposes, but I'm not a designer.
-
-I do need a job, and I'll do literally anything that doesn't involve AI. Obviously furry-related would be a plus, but anything works, I just need money. In that case, you can reach me @ `hireme(at)yiff.today`.
